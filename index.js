@@ -110,7 +110,7 @@ function  byManager(){
   function(err, data){
     console.table(data)
     menu()
-  `)
+  })
 
 }
 
@@ -141,4 +141,3 @@ function addRole(){
 function removeRole() {
 
 }
-
